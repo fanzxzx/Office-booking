@@ -2,8 +2,8 @@
 import React, { useState, useEffect, useCallback } from "react";
 
 const ROOMS = [
-  { id: "room-a", name: "Boardroom", index: "01" },
-  { id: "room-b", name: "Huddle room", index: "02" },
+  { id: "room-a", name: "Onema Room", index: "01" },
+  { id: "room-b", name: "Sterra Space", index: "02" },
 ];
 const OFFICE_START = 8;
 const OFFICE_END = 19;
